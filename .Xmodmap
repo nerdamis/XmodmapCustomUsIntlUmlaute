@@ -250,7 +250,9 @@ keycode 255 =
 
 clear mod5
 add mod5 = ISO_Level3_Shift
+keycode  26 = e E EuroSign EuroSign
 keycode  30 = u U udiaeresis Udiaeresis
 keycode  32 = o O odiaeresis Odiaeresis
 keycode  38 = a A adiaeresis Adiaeresis
 keycode  39 = s S ssharp S 
+
