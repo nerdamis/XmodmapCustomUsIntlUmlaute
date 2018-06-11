@@ -250,6 +250,7 @@ keycode 255 =
 
 clear mod5
 add mod5 = ISO_Level3_Shift
+keycode  13 = 4 dollar 4 paragraph currency sterling EuroSign onequarter
 keycode  26 = e E EuroSign EuroSign
 keycode  30 = u U udiaeresis Udiaeresis
 keycode  32 = o O odiaeresis Odiaeresis
